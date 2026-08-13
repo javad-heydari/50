@@ -1,1 +1,1 @@
-{"name": "red-project", "version": "1.0.0", "description": "A simple JavaScript project with a red background", "main": "index.html", "scripts": {"start": "node server.js"}, "keywords": [], "author": "", "license": "ISC"}
+{}
